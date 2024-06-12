@@ -54,3 +54,11 @@ char **get_keywords(char *pathname)
    keywords = tokn_array(line, ' ');
    return keywords;
 }
+
+size_t get_array_size(char **array)
+{
+    size_t i = 0;
+
+    for(; array; i++);
+    return i;
+}

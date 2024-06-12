@@ -7,6 +7,7 @@
 
 #include <unistd.h>
 #include <string.h>
+#include <stdlib.h>
 
 static size_t get_delim_qt(char *str)
 {
@@ -31,3 +32,11 @@ char **tokn_array(char *str, char delim)
     return tokns;
 }
 
+void free_array(char **array)
+{
+    size_t i = 0;
+
+    for(; array[i]; i++);
+        free(array[i]);
+    free(array);
+}
