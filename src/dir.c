@@ -38,7 +38,7 @@ const char **dir_list_files(const char *dirpath)
             file_list[i] = strdup(next->d_name);
            // printf("[%d] %s\n", i, next->d_name); debug print
             slr_results[i] = review_file(next->d_name, keywords);
-            dump_results()
+            dump_results(filename, slr_results[i], keywords);
         }
         next = readdir(folder);
     }

@@ -50,6 +50,14 @@ char **load_keywords(void)
     return keywords;
 }
 
+void dump_results(char *filename, size_t *match_counter, char **keywords)
+{
+    printf("%s:\n", filename):
+    for(size_t i = 0; keywords[i]; i++) {
+        printf("Found %ld matches with keyword [%s]\n", match_counter[i], keywords[i]);
+    }
+}
+
 size_t *review_file(const char *filename, char **keywords)
 {
     char *line = NULL;
