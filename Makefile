@@ -12,6 +12,8 @@ AR ?= ar
 RM = rm
 
 SRC 	=	src/file.c			\
+			src/dir.c			\
+			src/slr.c			\
 
 NAME = libslr.a
 
