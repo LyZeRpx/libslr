@@ -1,0 +1,3120 @@
+File: ./files/(Methods in Molecular Biology 934) Qing Yan (auth.), Qing Yan (eds.) - Psychoneuroimmunology_ Methods and Protocols-Humana Press (2012).txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 30 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 679 matches
+Total words: 181080
+Interest score: 253.97
+
+
+File: ./files/Albert et al. 2017 - AAV Vector-Meidated Gene Delivery to Substantia Nigra Dopamine Neurons - Implications for Gene Therapy and Disease Models.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 19 matches
+Keyword 'Parkinson/Parkinson's': 7 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 94 matches
+Keyword 'Brain': 31 matches
+Total words: 9602
+Interest score: 63.59
+
+
+File: ./files/Alexander 2004 - Biology of Parkinson's Disease - Pathogenesis and Pathophysiology of a Multisystem Neurodegenerative Disorder.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 300 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 51 matches
+Total words: 19253
+Interest score: 54.54
+
+
+File: ./files/Alieva et al. 2015 - MiRNA Expression is Highly Sensitive to a Drug Therapy in Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 5 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 43 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 2334
+Interest score: 44.04
+
+
+File: ./files/Ambros 2004 - The Functions of Animal microRNAs.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 6 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 7057
+Interest score: 1176.17
+
+
+File: ./files/Ambrosi et al. 2013 - A Further Update on the Role of Excitotoxicity in the Pathogenesis of Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 8278
+Interest score: 591.29
+
+
+File: ./files/Andres et al. 1999 - CoREST - A Functional Corepressor Required for Regulation of Neural-Specific Gene Expression.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 4675
+Interest score: 935.00
+
+
+File: ./files/Aron and Klein 2011 - Repairing the Parkinsonian Brain with Neurotrophic Factors.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 6 matches
+Keyword 'Parkinson/Parkinson's': 12 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 10 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 2 matches
+Keyword 'Brain': 27 matches
+Total words: 11562
+Interest score: 202.84
+
+
+File: ./files/Aten et al. 2016 - The miR-132-212 Locus - A Complex Regulator of Neuronal Plasticity, Gene Expression, and Cognition.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 3 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 4781
+Interest score: 434.64
+
+
+File: ./files/Bailey et al. 2015 - Development of Intrathecal scAAV9 Gene Therapy for Giant Axonal Neuropathy.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 7 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 15 matches
+Keyword 'Brain': 10 matches
+Total words: 2103
+Interest score: 65.72
+
+
+File: ./files/Bak et al. 2013 - Potent microRNA Suppression by RNA Pol II-transcribed 'Tough Decoy' Inhibitors.txt
+Keyword 'MicroRNA / MiRNA': 5 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 11964
+Interest score: 1994.00
+
+
+File: ./files/Ballas and Mandel 2005 - The Many Faces of REST Oversee Epigenetic Programming of Neuronal Genes.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 5532
+Interest score: 1106.40
+
+
+File: ./files/Barbeau 1961 - Announcement.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 438
+Interest score: 0.00
+
+
+File: ./files/Barbeau 1969 - L-Dopa Therapy in Parkinson's Disease - A Critical Review of Nine Years' Experience.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 87 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 21 matches
+Total words: 10959
+Interest score: 101.47
+
+
+File: ./files/Barneda-Zahonero et al. 2011 - Nurr1 Protein Is Required for N-Methyl-D-Aspartic Acid (NMDA) Receptor-mediated Neuronal Survival.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 13 matches
+Total words: 9758
+Interest score: 650.53
+
+
+File: ./files/Bartel 2004 - MicroRNAs - Genomics, Biogenesis, Mechanisms, and Function.txt
+Keyword 'MicroRNA / MiRNA': 7 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 7 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 16656
+Interest score: 876.63
+
+
+File: ./files/Bartus 2012 - Translating the Therapeutic Potential of Neurotrophic Factors to Clinical 'Proof of Concept' - A Personal Saga Achieving a Career-Long Quest.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 34 matches
+Keyword 'Parkinson/Parkinson's': 113 matches
+Keyword 'Neurodegenerative Disease': 5 matches
+Keyword 'BBB': 23 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 31 matches
+Keyword 'Brain': 89 matches
+Total words: 30056
+Interest score: 101.88
+
+
+File: ./files/Bartus et al. 2014 - Parkinson's Disease Gene Therapy - Success by Design Meets Failure by Efficacy.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 40 matches
+Keyword 'Parkinson/Parkinson's': 10 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 23 matches
+Keyword 'Brain': 33 matches
+Total words: 12414
+Interest score: 116.02
+
+
+File: ./files/Bayarsaihan 2010 - Epigenetic Mechanisms in Inflammation.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 7444
+Interest score: 0.00
+
+
+File: ./files/Bazzoni et al. 2009 - Induction and Regulatory Function of miR-9 in Human Monocytes and Neutrophils Exposed to Proinflammatory Signals.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 6514
+Interest score: 814.25
+
+
+File: ./files/Bensinger and Tontonoz 2009 - A Nurr1 Pathway for Neuroprotection.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 2370
+Interest score: 1185.00
+
+
+File: ./files/Berkowitz and Gilman 1990 - Two Distinct Forms of Active Transcription Factor CREB (cAMP Response Element Binding Protein).txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 5785
+Interest score: 1928.33
+
+
+File: ./files/Bilen et al. 2006 - MicroRNA Pathways Modulate Polyglutamine-Induced Neurodegeneration.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 6 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 6199
+Interest score: 885.57
+
+
+File: ./files/Bito et al. 1996 - CREB Phosphorylation and Dephosphorylation - A Ca2+- and Stimulus Duration-Dependent Switch for Hippocampal Gene Expression.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 13 matches
+Total words: 9685
+Interest score: 745.00
+
+
+File: ./files/Bonuccelli 2003 - Comparing Dopamine Agonists in Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 5055
+Interest score: 2527.50
+
+
+File: ./files/Bonuccelli and Pavese 2007 - Role of Dopamine Agonists in Parkinson's Disease - An Update.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 27 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 1 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 7770
+Interest score: 242.81
+
+
+File: ./files/Brady and Morfini 2010 - A Perspective on Neuronal Cell Death Signaling and Neurodegeneration.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 3 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 7 matches
+Total words: 6223
+Interest score: 622.30
+
+
+File: ./files/Bucher et al. 2014 - Intracisternal Delivery of AAV9 Results in Oligodendrocyte and Motor Neuron Transduction in the Whole Central Nervous System of Cats.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 17 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 19 matches
+Keyword 'Brain': 29 matches
+Total words: 6723
+Interest score: 103.43
+
+
+File: ./files/Cadet and Jayanthi 2013 - Epigenetics of Methamphetamine-Induced Changes in Glutamate Function.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 1752
+Interest score: 438.00
+
+
+File: ./files/Cai et al. 2009 - A Brief Review on the Mechanisms of miRNA Regulation.txt
+Keyword 'MicroRNA / MiRNA': 5 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 5092
+Interest score: 636.50
+
+
+File: ./files/Cai et al. 2013 - Functional Characteristics of a Double Negative Feedback Loop Mediated by microRNAs.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 10744
+Interest score: 3581.33
+
+
+File: ./files/Calin et al. 2004 - Human microRNA Genes are Frequently Located at Fragile Sites and Genomic Regions Involved in Cancers.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 16 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 6396
+Interest score: 399.75
+
+
+File: ./files/Cao et al. 2016 - A New Plasmid-Based microRNA Inhibitor System That Inhibits microRNA Families in transgenic mice and cells - A Potential New Therapeutic Reagent.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 3 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 118
+Interest score: 39.33
+
+
+File: ./files/Caron et al. 2013 - Effects of Multiple Concussions on Retired National Hockey League Players.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 8 matches
+Total words: 10340
+Interest score: 1292.50
+
+
+File: ./files/Carthew and Sontheimer 2009 - Origins and Mechanisms of miRNAs and siRNAs.txt
+Keyword 'MicroRNA / MiRNA': 5 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 13351
+Interest score: 2670.20
+
+
+File: ./files/Chan and Kocerha 2012 - The path to microRNA therapeutics in psychiatric and neurodegenerative disorders.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 7 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 41 matches
+Total words: 10860
+Interest score: 201.11
+
+
+File: ./files/Chen et al. 2005 - The Developmental miRNA Profiles of Zebrafish as Determined by Small RNA Cloning.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 7 matches
+Total words: 6259
+Interest score: 695.44
+
+
+File: ./files/Chen et al. 2009 - The NF-kB Factor ReIB and Histone H3 Lysine Methyltransferase G9a Directly Interact to Generate Epigenetic Silencing in Endotoxin Tolerance.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 7152
+Interest score: 0.00
+
+
+File: ./files/Chiang et al. 2013 - miR-132 Enhances HIV-1 Replication.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 2676
+Interest score: 669.00
+
+
+File: ./files/Chinta and Anderson 2005 - Dopaminergic Neurons.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 4 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 16 matches
+Total words: 2684
+Interest score: 134.20
+
+
+File: ./files/Christopher et al. 2016 - MicroRNA Therapeutics - Discovering Novel Targets and Developing Specific Therapy.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 1 matches
+Keyword 'Brain': 2 matches
+Total words: 4301
+Interest score: 860.20
+
+
+File: ./files/Chtarto et al. 2013 - A Next Step in Adeno-Associated Virus-Meidated Gene Therapy for Neurological Diseases - Regulation and Targeting.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 42 matches
+Keyword 'Parkinson/Parkinson's': 3 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 3 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 48 matches
+Keyword 'Brain': 67 matches
+Total words: 13922
+Interest score: 85.41
+
+
+File: ./files/Chu et al. 2006 - Nurr1 in Parkinson's Disease and Related Disorders.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 9515
+Interest score: 865.00
+
+
+File: ./files/Cloonan 2015 - Re-thinking miRNA-mRNA Interactions - Intertwining Issues Confound Target Discovery.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 8327
+Interest score: 2775.67
+
+
+File: ./files/Conaco et al. 2005 - Reciprocal actions of REST and a microRNA Promote Neural Identity.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 7 matches
+Total words: 6209
+Interest score: 776.12
+
+
+File: ./files/Coolen et al. 2013 - miR-9 - A Versatile Regulator of Neurogenesis.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 4 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 33 matches
+Total words: 11141
+Interest score: 285.67
+
+
+File: ./files/Costa et al. 2015 - Brain-derived neurotrophic factor serum levels correlate with cognitive performance in Parkinson's disease patients with mild cognitive impairment.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 32 matches
+Total words: 7233
+Interest score: 212.74
+
+
+File: ./files/Coutinho et al. 2006 - Discovery and Profiling of Bovine microRNAs from Immune-related and Embryonic Tissues.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 7 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 8129
+Interest score: 903.22
+
+
+File: ./files/Daya and Burns 2008 - Gene Therapy Using Adeno-Associated Virus Vectors.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 31 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 241 matches
+Keyword 'Brain': 6 matches
+Total words: 11446
+Interest score: 41.03
+
+
+File: ./files/de Mena et al. 2010 - Analysis of the Micro-RNA-133 and PITX3 Genes in Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 4 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 5031
+Interest score: 838.50
+
+
+File: ./files/Decressac et al. 2012 - α-Synuclein-Induced Down-Regulation of Nurr1 Disrupts GDNF Signaling in Nigral Dopamine Neurons.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 2 matches
+Keyword 'Parkinson/Parkinson's': 9 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 52 matches
+Keyword 'Brain': 18 matches
+Total words: 13458
+Interest score: 166.15
+
+
+File: ./files/Decressac et al. 2013 - NURR1 in Parkinson Disease - From Pathogenesis to Therapeutic Potential.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 2 matches
+Keyword 'Parkinson/Parkinson's': 12 matches
+Keyword 'Neurodegenerative Disease': 2 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 4 matches
+Keyword 'Brain': 27 matches
+Total words: 8448
+Interest score: 179.74
+
+
+File: ./files/Delenclos et al. 2016 - Biomarkers in Parkinson's Disease - Advances and Strategies.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 62 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 13 matches
+Total words: 4645
+Interest score: 61.93
+
+
+File: ./files/Devine et al. 2011 - Parkinson's Disease and α-Synuclein Expression.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 13 matches
+Keyword 'Neurodegenerative Disease': 2 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 15 matches
+Total words: 7822
+Interest score: 260.73
+
+
+File: ./files/Dong et al. 2016 - Nurr1-Based Therapies for Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 7 matches
+Keyword 'Parkinson/Parkinson's': 9 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 1 matches
+Keyword 'Brain': 12 matches
+Total words: 8949
+Interest score: 298.30
+
+
+File: ./files/Dulsaulcy et al. 2019 - miR-132-3p is a Positive Regulator of Alpha-Cell Mass and is Downregulated in Obese Hyperglycemic Mice.txt
+Keyword 'MicroRNA / MiRNA': 5 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 13 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 10294
+Interest score: 571.89
+
+
+File: ./files/Ebert and Sharp 2010 - MicroRNA Sponges - Progress and Possibilities.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 8 matches
+Keyword 'AAV': 1 matches
+Keyword 'Brain': 0 matches
+Total words: 6853
+Interest score: 623.00
+
+
+File: ./files/Edbauer et al. 2010 - Regulation of Synaptic Structure and Function by FMRP-Associated MicroRNAS miR-125b and miR-132.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 34 matches
+Total words: 11615
+Interest score: 305.66
+
+
+File: ./files/El Fatimy et al. 2018 - MicroRNA-132 Provides Neuroprotection for Tauopathies via Multiple Signaling Pathways.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 31 matches
+Total words: 12841
+Interest score: 389.12
+
+
+File: ./files/El-Maghrabi and Eckenhoff 1993 - Inhibition of Dopamine Transport in Rat Brain Synaptosomes by Volatile Anesthetics.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 0
+Interest score: 0.00
+
+
+File: ./files/Elramah et al. 2014 - MicroRNAs Regulate Neuronal Plasticity and are Involved in Pain Mechanisms.txt
+Keyword 'MicroRNA / MiRNA': 7 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 20 matches
+Total words: 16454
+Interest score: 609.41
+
+
+File: ./files/Eskildsen et al. 2013 - Angiotensin II Regulates microRNA-132-212 in Hypertensive Rats and Humans.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 9 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 8080
+Interest score: 673.33
+
+
+File: ./files/Fedorow et al. 2005 - Neuromelanin in Human Dopamine Neurons - Comparison with Peripheral Melanins and Relevance to Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 67 matches
+Total words: 14152
+Interest score: 199.32
+
+
+File: ./files/Filipowicz et al. 2005 - Post-Transcriptional Gene Silencing by siRNAs and miRNAs.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 9259
+Interest score: 9259.00
+
+
+File: ./files/Filipowicz et al. 2008 - Mechanisms of Post-Transcriptional Regulation by microRNAs - Are the Answers in Sight.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 13736
+Interest score: 2289.33
+
+
+File: ./files/Freischmidt et al. 2013 - System Dysregulation of TDP-43 Binding microRNAs in Amyotrophic Lateral Sclerosis (Lou Gehrig's Disease).txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 2 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 7136
+Interest score: 892.00
+
+
+File: ./files/Fukuoka et al. 2018 - Supplemental Treatment for Huntington's Disease with miR-132 that is Deficient in Huntington's Disease Brain.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 1 matches
+Keyword 'Brain': 40 matches
+Total words: 9744
+Interest score: 226.60
+
+
+File: ./files/Garcia-Yagüe et al. 2013 - Nuclear Import and Export Signals Control the Subcellular Localization of Nurr1 Protein in Response to Oxidative Stress.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 6 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 9035
+Interest score: 1290.71
+
+
+File: ./files/Gass et al. 1998 - Deficits in Memory Tasks of Mice with CREB Mutations Depend on Gene Dosage.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 9257
+Interest score: 3085.67
+
+
+File: ./files/Gelb et al. 1999 - Diagnostic Criteria for Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 13 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 6981
+Interest score: 410.65
+
+
+File: ./files/Gillardon et al. 2008 - MicroRNA and Proteome Expression Profiling in Early-Symptomatic α-Synuclein(A30P)-Transgenic Mice.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 25 matches
+Total words: 6995
+Interest score: 225.65
+
+
+File: ./files/Gottschalk et al. 2019 - Activation of Peroxisome Proliferator-Activated Receptor-α Increases the Expression of Nuclear Receptor Related 1 Protein (Nurr1) in Dopaminergic Neurons.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 9019
+Interest score: 1503.17
+
+
+File: ./files/Gray et al. 2011 - Optimizing Promoters for Recombinant Adeno-Associated Virus-Mediated Gene Expression in the Peripheral and Central Nervous System Using Self-Complementary Vectors.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 5 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 20 matches
+Keyword 'Brain': 13 matches
+Total words: 6995
+Interest score: 184.08
+
+
+File: ./files/Gray et al. 2013 - Global CNS Gene Delivery and Evasion of anti-AAV Neutralizing Antibodies by Intrathecal AAV Administration in Non-Human Primates.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 18 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 33 matches
+Keyword 'Brain': 59 matches
+Total words: 9285
+Interest score: 84.41
+
+
+File: ./files/Guo et al. 2014 - Expression of p-CREB and Activity-Dependent miR-132 in Temporal Lobe Epilepsy.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 18 matches
+Total words: 5980
+Interest score: 314.74
+
+
+File: ./files/Gutierrez-Vazquez et al. 2017 - miRNA Profiling During Antigen-Dependent T Cell Activation - A Role for miR-132-3p.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 6 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 5729
+Interest score: 818.43
+
+
+File: ./files/Hadar et al. 2018 - SIRT1, miR-132, and miR-212 Link Human Longevity to Alzheimer's Disease.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 2 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 25 matches
+Total words: 7769
+Interest score: 267.90
+
+
+File: ./files/Haining and Achat-Mendes 2017 - Neuromelanin, One of the Most Overlooked Molecules in Modern Medicine, is Not a Spectator.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 6 matches
+Total words: 3863
+Interest score: 643.83
+
+
+File: ./files/Hancock et al. 2014 - MicroRNA-132 is Enriched in Developing Axons, Locally Regulates Rasa1 mRNA, and Promotes Axon Extension.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 11637
+Interest score: 1662.43
+
+
+File: ./files/Haraguchi et al. 2009 - Vectors Expressing Efficient RNA Decoys Achieve the Long-Term Suppression of Specific microRNA Activity in Mammalian Cells.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 9684
+Interest score: 0.00
+
+
+File: ./files/Hardingham et al. 2002 - Extrasynaptic NMDARs Oppose Synaptic NMDARs by Triggering CREB Shut-Off and Cell Death Pathways.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 7599
+Interest score: 690.82
+
+
+File: ./files/Haviv et al. 2018 - The Stress-Responding miR-132-3p Shows Evolutionarily Conserved Pathway Interactions.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 10 matches
+Total words: 9076
+Interest score: 698.15
+
+
+File: ./files/Heman-Ackah et al. 2013 - RISC in PD - The Impact of microRNAs in Parkinson's Disease Cellular and Molecular Pathogenesis.txt
+Keyword 'MicroRNA / MiRNA': 6 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 6 matches
+Keyword 'Neurodegenerative Disease': 3 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 21 matches
+Total words: 15713
+Interest score: 424.68
+
+
+File: ./files/Herbert and DeStooper 2007 - miRNAs in Neurodegeneration.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 2559
+Interest score: 213.25
+
+
+File: ./files/Hoang 2014 - Pathway for Parkinson Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 3 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 1951
+Interest score: 487.75
+
+
+File: ./files/Hocquemiller et al. 2016 - Adeno-Associated Virus-Based Gene Therapy for CNS Diseases.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 140 matches
+Keyword 'Parkinson/Parkinson's': 22 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 6 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 126 matches
+Keyword 'Brain': 77 matches
+Total words: 19010
+Interest score: 51.10
+
+
+File: ./files/Honkaniemi et al. 1995 - Focal Brain Injury Induces Multiple Immediate Early Genes Encoding Zinc Finger Transcription Factors.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 63 matches
+Total words: 6814
+Interest score: 108.16
+
+
+File: ./files/Hoss et al. 2016 - microRNA Profiles in Parkinson's Disease Prefrontal Cortex.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 8 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 31 matches
+Total words: 6771
+Interest score: 161.21
+
+
+File: ./files/Howells et al. 2000 - Reduced BDNF mRNA Expression in the Parkinson's Disease Substantia Nigra.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 30 matches
+Total words: 6779
+Interest score: 218.68
+
+
+File: ./files/Hwang et al. 2014 - The gene silencing transcription factor REST represses miR-132 expression in hippocampal neurons to die.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 12 matches
+Total words: 8539
+Interest score: 656.85
+
+
+File: ./files/Ichimura et al. 2011 - miRNAs and Regulation of Cell Signaling.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 6270
+Interest score: 1254.00
+
+
+File: ./files/Iorio and Croce 2012 - Causes and Consequences of microRNA Dysregulation.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 14 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 10329
+Interest score: 688.60
+
+
+File: ./files/Ishikawa [eds.] - Cardiac Gene Therapy.txt
+Keyword 'MicroRNA / MiRNA': 6 matches
+Keyword 'Gene therapy': 207 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 3 matches
+Keyword 'AAV': 192 matches
+Keyword 'Brain': 4 matches
+Total words: 126665
+Interest score: 307.44
+
+
+File: ./files/Jakubowski and Labrie 2016 - Epigenetic Biomarkers for Parkinson's Disease - From Diagnostics to Therapeutics.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 7 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 42 matches
+Total words: 9036
+Interest score: 180.72
+
+
+File: ./files/Jankovic 2007 - Parkinson's Disease - Clinical Features and Diagnosis.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 26 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 30 matches
+Total words: 9996
+Interest score: 175.37
+
+
+File: ./files/Jankovic et al. 2005 - The Role of Nurr1 in the Development of Dopaminergic Neurons and Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 8 matches
+Keyword 'Neurodegenerative Disease': 2 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 21 matches
+Total words: 9087
+Interest score: 283.97
+
+
+File: ./files/Jansson and Lund 2012 - MicroRNA and Cancer.txt
+Keyword 'MicroRNA / MiRNA': 9 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 23 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 21178
+Interest score: 622.88
+
+
+File: ./files/Ji et al. 2017 - Targeting MicroRNAs in Cancer Gene Therapy.txt
+Keyword 'MicroRNA / MiRNA': 8 matches
+Keyword 'Gene therapy': 7 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 9687
+Interest score: 569.82
+
+
+File: ./files/Jimenez-Mateos et al. 2011 - miRNA Expression Profile After Status Epilepticus and Hippocampal Neuroprotection by Targeting miR-132.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 22 matches
+Total words: 10231
+Interest score: 393.50
+
+
+File: ./files/Jin et al. 2011 - Small RNA Sequencing Reveals MicroRNAs That Modulate Angiotensin II Effects in Vascular Smooth Muscle Cells.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 14 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 10649
+Interest score: 626.41
+
+
+File: ./files/Johe et al. 2019 - Methods of Treating Neurodegenerative Conditions.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 0
+Interest score: 0.00
+
+
+File: ./files/Joseph et al. 2003 - p57kip2 Cooperates with Nurr1 in Development.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 6180
+Interest score: 1545.00
+
+
+File: ./files/Kadkhodaei et al. 2013 - Transcription Factor Nurr1 Maintains Fiber Integrity and Nuclear-Encoded Mitochodrial Gene Expression in Dopamine Neurons.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 7023
+Interest score: 540.23
+
+
+File: ./files/Karthikeyan et al. 2016 - MicroRNAs - Key Players in Microglia and Astrocyte Mediated Inflammation in CNS Pathologies.txt
+Keyword 'MicroRNA / MiRNA': 8 matches
+Keyword 'Gene therapy': 2 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 2 matches
+Keyword 'BBB': 1 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 68 matches
+Total words: 14895
+Interest score: 183.89
+
+
+File: ./files/Karve et al. 2015 - The Contribution of Astrocytes and Microglia to Traumatic Brain Injury.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 13 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 89 matches
+Total words: 8872
+Interest score: 86.98
+
+
+File: ./files/Kawashima et al. 2010 - Glucocorticoid Attenuates Brain-Derived Neurotrophic Factor-Dependent Upregulation of Glutamate Receptors Via the Suppression of microRNA-132 Expression.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 20 matches
+Total words: 8660
+Interest score: 433.00
+
+
+File: ./files/Keasy et al. 2015 - MiR-132 is Upregulated by Ischemic Preconditioning of Cultured Hippocampal Neurons and Protects them from Subsequent OGD Toxicity.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 22 matches
+Total words: 4938
+Interest score: 189.92
+
+
+File: ./files/Kim et al. 2000 - Distinct cAMP Response Element-Binding Protein (CREB) Domains Stimulate Different Steps in a Concerted Mechanism of Transcription Activation.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 5082
+Interest score: 0.00
+
+
+File: ./files/Kim et al. 2003 - Dopaminergic Neuronal Differentiation from Rat Embryonic Neural Precursors by Nurr1 Overexpression.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 18 matches
+Total words: 9814
+Interest score: 545.22
+
+
+File: ./files/Kim et al. 2007 - A microRNA Feedback Circuit in Midbrain Dopaminergic Neurons.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 10 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 6 matches
+Total words: 4040
+Interest score: 252.50
+
+
+File: ./files/Kim_et_al-2003-Journal_of_Neurochemistry (1).txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 18 matches
+Total words: 9814
+Interest score: 545.22
+
+
+File: ./files/Korczyn 2004 - Drug Treatment of Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 10 matches
+Keyword 'Neurodegenerative Disease': 2 matches
+Keyword 'BBB': 1 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 5917
+Interest score: 369.81
+
+
+File: ./files/Lagos-Quintana et al. 2001 - Identification of Novel Genes Coding for Small Expressed RNAs.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 4 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 5958
+Interest score: 1191.60
+
+
+File: ./files/Lau et al. 2013 - Alteration of the microRNA Network During the Progression of Alzheimer's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 25 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 49 matches
+Total words: 17485
+Interest score: 236.28
+
+
+File: ./files/Le et al. 2009 - Etiopathogenesis of Parkinson Disease - A New Beginning.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 15 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 16 matches
+Total words: 7481
+Interest score: 233.78
+
+
+File: ./files/Lees 2007 - Unresolved Issues Relating to the Shaking Palsy on the Celebration of James Parkinson's 250th Birthday.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 23 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 14 matches
+Total words: 7127
+Interest score: 192.62
+
+
+File: ./files/Leinders et al. 2016 - Increased miR-132-3p Expression is Associated with Chronic Neuropathic Pain.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 7 matches
+Total words: 11030
+Interest score: 1225.56
+
+
+File: ./files/Leonov et al. 2015 - Suppression of AGO2 by miR-132 as a Determinant of miRNA-mediated Silencing in Human Primary Endothelial Cells.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 5 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 6305
+Interest score: 700.56
+
+
+File: ./files/Lian et al. 2016 - miR-132 Plays an Oncogenic Role in Laryngeal Squamous Cell Carcinoma by Targeting FOXO1 and Activating the Pi3K-AKT Pathway.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 5370
+Interest score: 5370.00
+
+
+File: ./files/Liu et al. 2004 - Role of NMDA Receptor Subtypes in Governing the Direction of Hippocampal Synaptic Plasticity.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 298
+Interest score: 0.00
+
+
+File: ./files/Lu et al. 2014 - REST and Stress Resistance in Ageing and Alzheimer's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 53 matches
+Total words: 17537
+Interest score: 318.85
+
+
+File: ./files/Lukashchuk et al. 2016 - AAV9-mediated Central Nervous System-targed Gene Delivery via Cisterna Magna Route in Mice.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 4 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 17 matches
+Keyword 'Brain': 43 matches
+Total words: 8907
+Interest score: 137.03
+
+
+File: ./files/Lungu et al. 2013 - MicroRNA Profiling and the Role of microRNA-132 in Neurodegeneration Using a Rat Model.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 3 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 24 matches
+Total words: 4732
+Interest score: 152.65
+
+
+File: ./files/Magill et al. 2010 - microRNA-132 Regulates Dendritic Growth and Arboriation of Newborn Neurons in the Adult Hippocampus.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 13 matches
+Total words: 5858
+Interest score: 418.43
+
+
+File: ./files/Maiti et al. 2010 - Self-Complementary Sequence Context in Mature miRNAs.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 4384
+Interest score: 0.00
+
+
+File: ./files/Majidinia et al. 2016 - The Role of miRNAs in Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 5 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 37 matches
+Total words: 9498
+Interest score: 211.07
+
+
+File: ./files/Malmevik et al. 2015 - Identification of the miRNA Targetome in Hippocampal Neurons using RIP-seq.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 11 matches
+Keyword 'Brain': 19 matches
+Total words: 8807
+Interest score: 275.22
+
+
+File: ./files/Malmevik et al. 2016 - Distinct Cognitive Effects and Underlying Transcriptome Changes Upon Inhibition of Individual miRNAs in Hippocampal Neurons.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 27 matches
+Keyword 'Brain': 20 matches
+Total words: 9414
+Interest score: 181.04
+
+
+File: ./files/Marsden (2006) - Dopamine - The Rewarding Years.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 52 matches
+Total words: 7940
+Interest score: 149.81
+
+
+File: ./files/Martel et al. 2009 - In Developing Hippocampal Neurons, NR2B-Containing NMDA Receptors Can Mediate Signalling to Neuronal Survival and Synaptic Potentiation, As Well As Neuronal Cell Death.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 7950
+Interest score: 7950.00
+
+
+File: ./files/Martinat et al. 2005 - Cooperative Transcription Activation by Nurr1 and Pitx3 Induces Embryonic Stem Cell Maturation to the Midbrain Dopamine Neuron Phenotype.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 6070
+Interest score: 1214.00
+
+
+File: ./files/Mathew et al. 2012 - Degraded Mitochondrial DNA is a Newly Identified Subtype of the Damage Associated Molecualr Pattern (DAMP) Family and Possible Trigger of Neurodegeneration.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 7244
+Interest score: 658.55
+
+
+File: ./files/Mazziotti et al. 2017 - miR-132-212 is Required for Maturation of Binocular Matching of Orientation Preference and Depth Perception.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 4 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 12398
+Interest score: 826.53
+
+
+File: ./files/Mellios et al. 2011 - miR-132, an Experience-Dependent microRNA, is Essential for Visual Cortex Plasticity.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 3229
+Interest score: 1614.50
+
+
+File: ./files/Melo and Esteller 2010 - Dysregulation of microRNAs in Cancer - Playing with Fire.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 16 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 15464
+Interest score: 773.20
+
+
+File: ./files/Miller et al. 2012 - MicroRNA Dysregulation has Implications for both Neurodevelopment and Adult Brain Function.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 27 matches
+Total words: 6523
+Interest score: 241.59
+
+
+File: ./files/mmc1.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 0
+Interest score: 0.00
+
+
+File: ./files/Murlidharan et al. 2015 - Next Generation AAV Vectors for Limiting Systemic Leakage and Improving Safety Following CNS Administration.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 2 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 6 matches
+Keyword 'Brain': 9 matches
+Total words: 1104
+Interest score: 64.94
+
+
+File: ./files/Murphy and Conneely 1997 - Neuroendocrine Regulation of the Hypothalamaic Pituitary Adrenal Axis by the nurr1-nur77 Subfamily of Nuclear Receptors.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 7649
+Interest score: 1274.83
+
+
+File: ./files/Nakano and Nakajima 2018 - Current Knowledge of microRNA-mediated Regulation of Drug Metabolism in Humans.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 11457
+Interest score: 3819.00
+
+
+File: ./files/Naqvi et al. 2014 - CREB Phosphorylation at Ser133 Regulates Transcription via Distinct Mechanisms Downstream of cAMP and MAPK.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 9458
+Interest score: 9458.00
+
+
+File: ./files/Nelson et al. 2007 - MicroRNAs (miRNAs) in Neurodegenerative Disease.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 54 matches
+Total words: 8371
+Interest score: 146.86
+
+
+File: ./files/Nudelman et al. 2010 - Neuronal Activity Rapidly Induces Transcription of the CREB-Regulated microRNA-132 - in vivo.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 10 matches
+Total words: 5641
+Interest score: 564.10
+
+
+File: ./files/O'Neill 2009 - Boosting the Brain's Ability to Block Inflammation via MicroRNA-132.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 1276
+Interest score: 638.00
+
+
+File: ./files/Oh et al. 2015 - Combined Nurr1 and Foxa2 Roles in the Therapy of Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 19 matches
+Keyword 'Parkinson/Parkinson's': 4 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 51 matches
+Keyword 'Brain': 10 matches
+Total words: 13295
+Interest score: 156.41
+
+
+File: ./files/Ojeda et al. 2003 - Rapid Increase of Nurr1 Expression in the Substantia Nigra After 6-Hydroxydopamine Lesion in the Striatum of the Rat.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 53 matches
+Total words: 8247
+Interest score: 152.72
+
+
+File: ./files/Orta-Salazar et al. 2014 - REST_NRSF-Induced Changes of ChAT Protein Expression in the Neocortex and Hippocampus of the 3xTg-AD Mouse Model of Alzheimer's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 10 matches
+Total words: 5352
+Interest score: 535.20
+
+
+File: ./files/Ozawa et al. 2009 - Methods of Treating Parkinson's Disease Using Recombinant Adeno-Associated Virus Virions.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 7 matches
+Keyword 'Parkinson/Parkinson's': 26 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 86 matches
+Keyword 'Brain': 8 matches
+Total words: 7432
+Interest score: 58.06
+
+
+File: ./files/Packer et al. 2008 - The Bifunctional microRNA mir-9-9p Regulates REST and CoREST and Is Downregulated in Huntingdon's Disease.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 14 matches
+Total words: 5264
+Interest score: 309.65
+
+
+File: ./files/Palm et al. 2012 - miRNAs and Neural Stem Cells - A Team to Treat Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 15 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 3 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 54 matches
+Total words: 12328
+Interest score: 166.59
+
+
+File: ./files/Parkinson 1817 - An Essay on the Shaking Palsy.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 12359
+Interest score: 2059.83
+
+
+File: ./files/Parkinson's Disease Clinic - Gene Therapy for PD.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 29 matches
+Keyword 'Parkinson/Parkinson's': 43 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 5 matches
+Keyword 'Brain': 17 matches
+Total words: 2291
+Interest score: 24.37
+
+
+File: ./files/Pavese and Brooks 2008 - Imaging Neurodegeneration in Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 159 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 42 matches
+Total words: 9858
+Interest score: 49.04
+
+
+File: ./files/Perkins et al. 2007 - microRNA Expression in the Prefrontal Cortex of Individuals with Schizophrenia and Schizoaffective Disorder.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 22 matches
+Total words: 7722
+Interest score: 308.88
+
+
+File: ./files/Pichler et al. 2016 - The miRNome of Alzheimer's Disease - Consistent Downregulation of the miR-132-212 Cluster.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 8 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 39 matches
+Total words: 10524
+Interest score: 219.25
+
+
+File: ./files/Price and Chen 2014 - MicroRNAs in Cancer Biology and Therapy - Current Status and Perspectives.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 2 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 6 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 10116
+Interest score: 1124.00
+
+
+File: ./files/Qian et al. 2017 - Advances in Roles of miR-132 in the Nervous System.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 4 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 17 matches
+Total words: 8370
+Interest score: 334.80
+
+
+File: ./files/Qureshi and Mehler 2012 - Emerging Roles of Non-Coding RNAs in Brain Evolution, Development, Plasticity, and Disease.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 47 matches
+Total words: 13722
+Interest score: 263.88
+
+
+File: ./files/Qureshi et al. 2010 - REST and CoREST are transcriptional and epigenetic regulators of seminal neural fate decisions.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 17 matches
+Total words: 10113
+Interest score: 532.26
+
+
+File: ./files/Rabey & Hefti 1990 - Neuromelanin Synthesis in Rat and Human Substantia Nigra.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 22 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 17 matches
+Total words: 6201
+Interest score: 159.00
+
+
+File: ./files/Radad et al. 2005 - Short Review on Dopamine Agonists - Insight into Clinical and Research Studies Relevant to Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 33 matches
+Total words: 8956
+Interest score: 255.89
+
+
+File: ./files/Recasens et al. 2016 - Role of microRNAs in the Regulation of α-Synuclein Expression - A Systematic Review.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 10 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 1 matches
+Keyword 'Brain': 4 matches
+Total words: 10241
+Interest score: 568.94
+
+
+File: ./files/Remenyi et al. 2010 - Regulation of the miR-212-132 Locus by MSK1 and CREB in Response to Neurotrophins.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 12 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 10666
+Interest score: 627.41
+
+
+File: ./files/Reynolds et al. 2007 - Oxidative Stress and the Pathogenesis of Neurodegenerative Disorders.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 3 matches
+Keyword 'Neurodegenerative Disease': 2 matches
+Keyword 'BBB': 3 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 44 matches
+Total words: 12718
+Interest score: 244.58
+
+
+File: ./files/Robertson et al. 2010 - Specificity and Functionality of microRNA inhibitors.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 6967
+Interest score: 6967.00
+
+
+File: ./files/Rocca 2017 - The Future Burden of Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 6 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 1681
+Interest score: 280.17
+
+
+File: ./files/Roser et al. 2018 - Circulating miRNAs as Diagnostic Biomarkers for Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 7 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 4 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 6 matches
+Total words: 7301
+Interest score: 405.61
+
+
+File: ./files/Sachetti et al. 2006 - Multiple Signaling Pathways Regulate the Transcriptional Activity of the Orphan Nuclear Receptor NURR1.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 6 matches
+Total words: 10675
+Interest score: 1779.17
+
+
+File: ./files/Saijo et al. 2009 - A Nurr1-CoREST Transrepression Pathway Attenuates Neurotoxic Inflammation in Activated Microglia and Astrocytes.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 10 matches
+Total words: 9997
+Interest score: 833.08
+
+
+File: ./files/Saito et al. 2014 - Epigenetic Alterations and MicroRNA Misexpression in Cancer and Autoimmune Diseases - a Critical Review.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 6437
+Interest score: 3218.50
+
+
+File: ./files/Sakamoto et al. 2011 - CREB - A Multifaceted Regulator of Neuronal Plasticity and Protection.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 8908
+Interest score: 809.82
+
+
+File: ./files/Sasaki et al. 2006 - Progessive Loss of SIRT1 With Cell Cycle Withdrawal.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 9 matches
+Total words: 7197
+Interest score: 799.67
+
+
+File: ./files/Satoh and Kuroda 2002 - The Constitutive and Inducible Expression of Nurr1, A Key Regulatior of Dopaminergic Neuronal Differentiation, in Human Neural and Non-Neural Cell Lines.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 21 matches
+Total words: 9814
+Interest score: 467.33
+
+
+File: ./files/Saucedo-Cardenas et al. 1998 - Nurr1 is Essential for the Induction of the Dopaminergic Phenotype and the Survival of Ventral Mesencephalic Late Dopaminergic Precursor Neurons.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 13 matches
+Total words: 5656
+Interest score: 435.08
+
+
+File: ./files/Schaefer et al. 2007 - Cerebellar Neurodegeneration in the Absence of microRNAs.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 13 matches
+Total words: 5073
+Interest score: 390.23
+
+
+File: ./files/Schratt et al. 2006 - A Brain-Specific microRNA Regulates Dendritic Spine Development.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 16 matches
+Total words: 6746
+Interest score: 421.62
+
+
+File: ./files/Sessa et al. 2019 - Human Brain Injury and miRNAs - An Experimental Study.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 55 matches
+Total words: 8007
+Interest score: 133.45
+
+
+File: ./files/Shafi et al. 2010 - MicroRNA Signatures in Neurological Disorders.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 5 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 23 matches
+Total words: 7828
+Interest score: 260.93
+
+
+File: ./files/Shah et al. 2016 - MicroRNA Therapeutics in Cancer - An Emerging Concept.txt
+Keyword 'MicroRNA / MiRNA': 7 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 9 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 9675
+Interest score: 460.71
+
+
+File: ./files/Shaked et al. 2009 - MicroRNA-132 Potentiates Cholinergic Anti-Inflammatory Signaling by Targeting Acetylcholinesterase.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 23 matches
+Total words: 9346
+Interest score: 373.84
+
+
+File: ./files/Shaltiel et al. 2013 - Hippocampal microRNA-132 Mediates Stress-Inducible Cognitive Deficits Through Its Acetylcholinesterase Target.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 18 matches
+Total words: 9777
+Interest score: 514.58
+
+
+File: ./files/Shetty et al. 2015 - Dopamine D1-D5 Receptor Signaling Regulates Synaptic Cooperation and Competition in Hippocampal CA1 Pyramidal Neurons via Sustained ERK1-2 Activation.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 10072
+Interest score: 2014.40
+
+
+File: ./files/Shi 2014 - Regulatory Networks Between Neurotrophins and miRNAs in Brain Diseases and Cancers.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 25 matches
+Total words: 8028
+Interest score: 258.97
+
+
+File: ./files/Shi et al. 2019 - Dysregulation of Dopaminergic Regulatory Factors TH, Nurr1, and Pitx3 in the Ventral Tegmental Area Associated with Neuronal Injury Induced by Chronic Morphine Dependence.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 17 matches
+Total words: 7036
+Interest score: 390.89
+
+
+File: ./files/Sim et al. 2014 - Neuronal Activity-Dependent Regulation of MicroRNAs.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 4 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 9 matches
+Total words: 5657
+Interest score: 377.13
+
+
+File: ./files/Singh et al. 2017 - SIRT1 Ameliorates Oxidative Stress Induced Neural Cell Death and is Down-Regulated in Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 16 matches
+Total words: 7511
+Interest score: 469.44
+
+
+File: ./files/Smidt et al. 2004 - Early Developmenta Failure of Substantia Nigra Dopamine Neurons in Mice Lacking the Homeodomain Gene Pitx3.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 20 matches
+Total words: 7738
+Interest score: 386.90
+
+
+File: ./files/Soreq and Wolf 2011 - NeurimmiRs - microRNAs in the Neuroimmune Interface.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 3 matches
+Keyword 'cluster': 6 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 40 matches
+Total words: 7105
+Interest score: 145.00
+
+
+File: ./files/Spathis et al. 2017 - Nurr1-RxRa Heterodimer Activation as Monotherapy for Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 2 matches
+Keyword 'Parkinson/Parkinson's': 3 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 14 matches
+Keyword 'Brain': 11 matches
+Total words: 6485
+Interest score: 209.19
+
+
+File: ./files/Spillantini et al. 1997 - α-Synuclein in Lewy Bodies.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 2261
+Interest score: 1130.50
+
+
+File: ./files/Stoessl 2008 - Potential Therapeutic Targets for Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 15 matches
+Keyword 'Parkinson/Parkinson's': 28 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 1 matches
+Keyword 'Brain': 19 matches
+Total words: 11079
+Interest score: 173.11
+
+
+File: ./files/Stowe et al. 2010 - Evaluation of the Efficacy and Safety of Adjuvant Treatment to Levodopa Therapy in Parkinson's Disease Patients with Complications (Review).txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 92 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 73757
+Interest score: 784.65
+
+
+File: ./files/Sun et al. 2015 - Time-Dependent Profiles of MicroRNA Expression Induced by Ischemic Preconditioning in the Gerbil Hippocampus.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 5 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 21 matches
+Total words: 6826
+Interest score: 227.53
+
+
+File: ./files/Sun et al. 2019 - Minocycline Protects Against Rotenone-Induced Neurotoxicity Correlating with Upregulation of Nurr1 in a Parkinson's Disease Rat Model.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 5 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 4801
+Interest score: 436.45
+
+
+File: ./files/Taganov et al. 2006 - NF-kB-dependent Induction of microRNA miR-146, an Inhibitor Targeted to Signaling Proteins of Innate Immune Responses.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 6132
+Interest score: 3066.00
+
+
+File: ./files/Teijido and Cacabelos 2018 - Pharmacoepigenomic Interventions as Novel Potential Treatments for Alzheimer's and Parkinson's Diseases.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 8 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 66 matches
+Total words: 28285
+Interest score: 377.13
+
+
+File: ./files/Thompson et al. 2012 - On Measuring miRNAs after Transient Transfection of Mimics or Antisense Inhibitors.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 3630
+Interest score: 3630.00
+
+
+File: ./files/Tognini et al. 2012 - Experience-dependent Expression of miR-132 Regulates Ocular Dominance Plasticity.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 3 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 2516
+Interest score: 629.00
+
+
+File: ./files/Tokuoka et al. 2014 - Nurr1 Expression is Regulated by Voltage-Dependent Calcium Channels and Calcineurin in Cultured Hippocampal Neurons.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 4242
+Interest score: 385.64
+
+
+File: ./files/Tseng and Agbandje-McKenna - Mapping the AAV Capsid Host Antibody Response Toward the Development of Second Generation Gene Delivery Vectors.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 17 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 110 matches
+Keyword 'Brain': 2 matches
+Total words: 11534
+Interest score: 89.41
+
+
+File: ./files/Tysnes and Storstein 2017 - Epidemiology of Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 8 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 3504
+Interest score: 269.54
+
+
+File: ./files/Van der Perren et al. 2014 - Viral Vector-Based Models of Parkinson's Disease.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 9 matches
+Keyword 'Parkinson/Parkinson's': 12 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 21 matches
+Keyword 'Brain': 34 matches
+Total words: 15364
+Interest score: 202.16
+
+
+File: ./files/Vasudevan 2012 - Posttranscriptional Upregulation by MicroRNAs.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 14100
+Interest score: 3525.00
+
+
+File: ./files/Vijayaraghava et al. 2016 - MicroRNA Expression Patterns in Human Astrocytes in Relation to Anatomical Location and Age.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 47 matches
+Total words: 7750
+Interest score: 151.96
+
+
+File: ./files/Vo et al. 2005 - A cAMP-Response Element Binding Protein-Induced microRNA Regulates Neuronal Morphogenesis.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 5652
+Interest score: 706.50
+
+
+File: ./files/Volakakis et al. 2010 - NR4A Orphan Nuclear Receptiors as Mediators of CREB-dependent Neuroprotection.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 18 matches
+Total words: 6900
+Interest score: 363.16
+
+
+File: ./files/Wagner et al. 1999 - Induction of a Midbrain Dopaminergic Phenotype in Nurr1-overexpressing Neural Stem Cells.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 16 matches
+Total words: 6979
+Interest score: 436.19
+
+
+File: ./files/Wahid et al. 2010 - MicroRNAs - Synthesis, Mechanism, Function, and Recent Clinical Trials.txt
+Keyword 'MicroRNA / MiRNA': 8 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 3 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 2 matches
+Total words: 14904
+Interest score: 1146.46
+
+
+File: ./files/Wallen et al. 2001 - Orphan Nuclear Receptor Nurr1 is Essential for Ret Expression in Midbrain Dopamine Neurons and in the Brain Stem.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 1 matches
+Keyword 'Brain': 38 matches
+Total words: 8468
+Interest score: 206.54
+
+
+File: ./files/Wallen-Mackenzie et al. 2003 - Nurr1-RXR Heterodimers Mediate RXR Ligand-Induced Signaling in Neuronal Cells.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 4 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 24 matches
+Total words: 9874
+Interest score: 340.48
+
+
+File: ./files/Walton and Dragunow 2000 - Is CREB a Key to Neuronal Survival.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 34 matches
+Total words: 6084
+Interest score: 178.94
+
+
+File: ./files/Wanet et al. 2012 - miR-212-132 Expression and Functions - Within and Beyond the Neuronal Compartment.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 14 matches
+Total words: 10660
+Interest score: 666.25
+
+
+File: ./files/Wang et al. 2012 - MicroRNAs in Learning, Memory, and Neurological Diseases.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 8 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 46 matches
+Total words: 11242
+Interest score: 187.37
+
+
+File: ./files/Wang et al. 2016 - Understanding the CREB1-miRNA Feedback Loop in Human Malignancies.txt
+Keyword 'MicroRNA / MiRNA': 6 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 17 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 14338
+Interest score: 597.42
+
+
+File: ./files/Wayman et al. 2008 - An Activity-Regulated microRNA Controls Plasticity by Down-Regulating p250GAP.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 6 matches
+Total words: 6793
+Interest score: 1132.17
+
+
+File: ./files/Weber et al. 2017 -  Circulating miR-132-3p as a Candidate Diagnostic Biomarker for Malignant Mesothelioma.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 9282
+Interest score: 0.00
+
+
+File: ./files/WikiPathways - Parkinson's Disease Pathway.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 0
+Interest score: 0.00
+
+
+File: ./files/Wohl and Reh 2015 - miR-124-9-9 Potentiates Ascl1-Induced Reprogramming of Cultured Müller Glia.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 11 matches
+Total words: 11678
+Interest score: 778.53
+
+
+File: ./files/Wu and Xie 2006 - Comparative Sequence Analysis Reveals an Intricate Network Among REST, CREB, and miRNA in Mediating Neuronal Expression.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 51 matches
+Total words: 10212
+Interest score: 200.24
+
+
+File: ./files/Xie et al. 2010 - microRNA-regulated, Systemically Delivered rAAV9 - A Step Closer to CNS-restricted Transgene Expression.txt
+Keyword 'MicroRNA / MiRNA': 4 matches
+Keyword 'Gene therapy': 11 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 10 matches
+Keyword 'Brain': 16 matches
+Total words: 8534
+Interest score: 208.15
+
+
+File: ./files/Xie et al. 2012 - Long-term Efficient Inhibition of microRNA Function in Mice using rAAV Vectors.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 2 matches
+Keyword 'AAV': 8 matches
+Keyword 'Brain': 1 matches
+Total words: 6739
+Interest score: 481.36
+
+
+File: ./files/Xie et al. 2015 - AAV-mediated miRNA Delivery and Therapeutics.txt
+Keyword 'MicroRNA / MiRNA': 7 matches
+Keyword 'Gene therapy': 13 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 44 matches
+Keyword 'Brain': 5 matches
+Total words: 7797
+Interest score: 111.39
+
+
+File: ./files/Xu et al. 2009 - Epileptiform Discharge Upregulates p-ERK1-2, Growth-Associated Protein 43 and Synaptophysin in Culutred Rat Hippocampal Neurons.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 9 matches
+Total words: 3983
+Interest score: 442.56
+
+
+File: ./files/Xu et al. 2012 - Functions of microRNA in Response to Cocaine Stimulation.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 1 matches
+Total words: 4248
+Interest score: 2124.00
+
+
+File: ./files/Yang et al. 2012 - miR-132 Regulates the Differentiation of Dopamine Neurons by Directly Targeting Nurr1 Expression.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 9870
+Interest score: 1974.00
+
+
+File: ./files/Yang et al. 2019 - Altered Expression Levels of MicroRNA-132 and Nurr1 in Peripheral Blood of Parkinson's Disease - Potential Disease Biomarkers.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 4 matches
+Total words: 5813
+Interest score: 830.43
+
+
+File: ./files/Yao et al. 2014 - miR-9 Promotes Microglial Activation by Targeting MCPIP1.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 17 matches
+Total words: 11318
+Interest score: 665.76
+
+
+File: ./files/Yi et al. 2014 - BDNF-ERK-CREB Signalling Mediates the Role of miR-132 in the Regulation of the Effects of Oleanolic Acid in Mice.txt
+Keyword 'MicroRNA / MiRNA': 2 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 24 matches
+Total words: 8981
+Interest score: 345.42
+
+
+File: ./files/Yoshimura et al. 2016 - Negative Regulation of microRNA-132 in Expression of Synaptic Proteins in Neuronal Differentiation of Embryonic Neural Stem Cells.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 2 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 26 matches
+Total words: 6509
+Interest score: 232.46
+
+
+File: ./files/Yu et al. 2014 - Dynamic Expression of miR-132, miR-212, and miR-146 in the Brain of Different Hosts Infected with Angiostrongylus cantonesis.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 25 matches
+Total words: 4822
+Interest score: 185.46
+
+
+File: ./files/Zangi and Hajjar 2012 - Synthetic MicroRNAs Stimulate Cardiac Repair.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 3 matches
+Keyword 'Brain': 0 matches
+Total words: 1467
+Interest score: 366.75
+
+
+File: ./files/Zetterström et al. 1996 - Cellular Expression of Immediate Early Transcription Factors Nurr1 and NGFI-B Suggests a Gene Regulatory Role in Several Brain Regions Including the Nigrostriatal Dopamine System.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 26 matches
+Total words: 5141
+Interest score: 197.73
+
+
+File: ./files/Zetterström et al. 1997 - Dopamine Neuron Agenesis in Nurr1-Deficient Mice.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 5 matches
+Total words: 3880
+Interest score: 776.00
+
+
+File: ./files/Zhai et al. 2016 - Argonaute and Argonaute-Bound Small RNAs in Stem Cells.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 1 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 12435
+Interest score: 6217.50
+
+
+File: ./files/Zhang et al. 2011 - Downregulation of miR-132 by Promoter Methylation Contributes to Pancreatic Cancer Development.txt
+Keyword 'MicroRNA / MiRNA': 1 matches
+Keyword 'Gene therapy': 1 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 4 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 6803
+Interest score: 1133.83
+
+
+File: ./files/Zhang et al. 2012 - Approaches to Manipulating microRNAs in Neurogenesis.txt
+Keyword 'MicroRNA / MiRNA': 9 matches
+Keyword 'Gene therapy': 2 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 5 matches
+Keyword 'AAV': 4 matches
+Keyword 'Brain': 13 matches
+Total words: 11937
+Interest score: 361.73
+
+
+File: ./files/Zhang et al. 2014 - miR-132 Inhibits Expression of SIRT1 and Induces Pro-Inflammatory Processes of Vascular Endothelial Inflammation through blockade of the SREBP-1c Metabolic Pathway.txt
+Keyword 'MicroRNA / MiRNA': 3 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 0 matches
+Total words: 5548
+Interest score: 1849.33
+
+
+File: ./files/Zhao et al. (2020) - miR-132-5p regulates apoptosis and autophagy in MPTP model of Parkinson's disease by targeting ULK1.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 1 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 7 matches
+Total words: 4660
+Interest score: 582.50
+
+
+File: ./files/Zhuo et al. 2017 - Comparison for Efficacy and Tolerablity Among Ten Drugs for Treatment of Parkinsonson's Disease - A Network of Meta-Analyses.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 30 matches
+Keyword 'Neurodegenerative Disease': 0 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 6 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 3 matches
+Total words: 11191
+Interest score: 286.95
+
+
+File: ./files/Zukin et al. 2004 - Molecular and Cellular Mechanisms of Ischemia-Induced Neuronal Cell Death.txt
+Keyword 'MicroRNA / MiRNA': 0 matches
+Keyword 'Gene therapy': 0 matches
+Keyword 'Parkinson/Parkinson's': 0 matches
+Keyword 'Neurodegenerative Disease': 1 matches
+Keyword 'BBB': 0 matches
+Keyword 'cluster': 0 matches
+Keyword 'AAV': 0 matches
+Keyword 'Brain': 120 matches
+Total words: 28916
+Interest score: 238.98
+
+
