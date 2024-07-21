@@ -33,8 +33,8 @@ def process_directory(directory_path, keywords):
         for filename in os.listdir(directory_path):
             filepath = os.path.join(directory_path, filename)
             if os.path.isfile(filepath):
-                print(f"Processing file: {filepath}")
-                output.write(f"File: {filepath}\n")
+                print(f"Results for:\n {filename}")
+                output.write(f"File: {filename}\n")
 
                 total_words = count_words_in_file(filepath)
                 total_keyword_matches = 0
@@ -42,14 +42,16 @@ def process_directory(directory_path, keywords):
                 for main_keyword, variations in keywords.items():
                     count = count_keyword_variations_in_file(filepath, variations)
                     total_keyword_matches += count
-                    print(f"Keyword variations '{'/'.join(variations)}': {count} matches")
-                    output.write(f"Keyword '{'/'.join(variations)}': {count} matches\n")
+                    print(f"\tKeyword variations '{'/'.join(variations)}': {count} matches")
+                    output.write(f"\tKeyword variations '{'/'.join(variations)}': {count} matches\n")
 
-                interest_score = total_words / total_keyword_matches if total_keyword_matches > 0 else 0
-                print(f"Total words: {total_words}")
-                print(f"Interest score: {interest_score:.2f}")
-                output.write(f"Total words: {total_words}\n")
-                output.write(f"Interest score: {interest_score:.2f}\n\n")
+                interest_score = (total_keyword_matches / total_words) * 100 if total_words > 0 else 0
+                print(f"\tTotal words: {total_words}")
+                print(f"\tTotal matches: {total_keyword_matches}")
+                print(f"\tInterest score: {interest_score:.2f}%")
+                output.write(f"\tTotal words: {total_words}\n")
+                output.write(f"\tTotal matches: {total_keyword_matches}")
+                output.write(f"\tInterest score: {interest_score:.2f}%\n\n")
 
                 print()
                 output.write("\n")

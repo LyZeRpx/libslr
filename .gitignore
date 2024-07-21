@@ -12,3 +12,4 @@ metamorph_lib
 my_libc
 main.c
 slr
+trace.txt
